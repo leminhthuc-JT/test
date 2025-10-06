@@ -1,0 +1,19 @@
+﻿  khohang.cpp
+D:\NNLT C\Khohang\khohang.cpp(338,16): warning C4477: 'fscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+  D:\NNLT C\Khohang\khohang.cpp(338,16):
+  this argument is used as a buffer size
+  
+D:\NNLT C\Khohang\khohang.cpp(339,16): warning C4477: 'fscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+  D:\NNLT C\Khohang\khohang.cpp(339,16):
+  this argument is used as a buffer size
+  
+D:\NNLT C\Khohang\khohang.cpp(340,16): warning C4477: 'fscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+  D:\NNLT C\Khohang\khohang.cpp(340,16):
+  this argument is used as a buffer size
+  
+D:\NNLT C\Khohang\khohang.cpp(342,16): warning C4477: 'fscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+  D:\NNLT C\Khohang\khohang.cpp(342,16):
+  this argument is used as a buffer size
+  
+D:\NNLT C\Khohang\khohang.cpp(537,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Khohang.vcxproj -> D:\NNLT C\Khohang\x64\Debug\Khohang.exe
